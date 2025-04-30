@@ -1,0 +1,28 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "pham phu",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phu8123/backend-zero.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "react"
+  ],
+  "author": "Pham Phu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phu8123/backend-zero/issues"
+  },
+  "homepage": "https://github.com/phu8123/backend-zero#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
